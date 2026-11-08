@@ -20,6 +20,18 @@ In this repository, I leverage the public ESIOS API to implement an end-to-end M
 ## Architecture
 ![ESIOS Fabric Medallion Architecture](assets/architecture_diagram.png)
 
+## Technical Documentation
+
+A two-part series exploring the architecture, design decisions, and technical implementation of this project.
+
+* **How to Build a Metadata-Driven Medallion Architecture in Microsoft Fabric (Part 1)**
+
+  [English](https://medium.com/@martacasdelg/how-to-build-a-metadata-driven-medallion-architecture-in-microsoft-fabric-part-1-6297422fb591) | [Español](https://medium.com/@martacasdelg/c%C3%B3mo-construir-una-arquitectura-medall%C3%B3n-metadata-driven-en-microsoft-fabric-parte-1-f5a6dbfa6f20)
+
+* **How to Build a Metadata-Driven Medallion Architecture in Microsoft Fabric (Part 2)**
+
+  Coming soon
+
 
 ## Feedback
 
