@@ -30,7 +30,7 @@ A two-part series exploring the architecture, design decisions, and technical im
 
 * **How to Build a Metadata-Driven Medallion Architecture in Microsoft Fabric (Part 2)**
 
-  Coming soon
+  [English](https://medium.com/@martacasdelg/how-to-build-a-metadata-driven-medallion-architecture-in-microsoft-fabric-part-2-c2a3fbab4021) | [Español](https://medium.com/@martacasdelg/c%C3%B3mo-construir-una-arquitectura-medall%C3%B3n-metadata-driven-en-microsoft-fabric-parte-2-04eb13aefb93)
 
 
 ## Feedback
